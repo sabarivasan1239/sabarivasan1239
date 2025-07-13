@@ -1,6 +1,6 @@
 <!-- Name Typing Animation (only once, white, bold) -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&duration=2000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&size=35&duration=3000&pause=1000&color=0001F7&repeat=false&width=435&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" /></a>
 
 <!-- Subtitle Typing Loop -->
 <h2 align="center">
