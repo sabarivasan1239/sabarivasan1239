@@ -16,12 +16,13 @@
 ### 💡 About Me
 
 <p style="font-size: 18px; font-weight: 600; max-width: 700px; line-height: 1.8;">
-  🎓 Currently pursuing a <strong>B.Tech in Information Technology</strong><br>
-  🌱 Passionate about integrating <strong>technology</strong> with real-world engineering<br>
-  🎨 Dedicated <strong>UI/UX Designer</strong> focused on clean, modern, and user-centric designs<br>
-  💬 Proficient in <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>IoT</strong>, and modern <strong>UI/UX principles</strong><br>
-  🌐 Explore my portfolio: <a href="https://portfolio.vasan.tech"><strong>vasan.tech</strong></a>
+  🎓 Pursuing a <strong>B.Tech in Information Technology</strong><br>
+  🔧 Driven by a passion for merging <strong>technology</strong> with practical engineering solutions<br>
+  🖌️ Creative <strong>UI/UX Designer</strong> focused on clean, modern, and user-first interfaces<br>
+  💻 Skilled in <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>IoT</strong>, and intuitive <strong>UI/UX principles</strong><br>
+  🌐 View my work: <a href="https://portfolio.vasan.tech" target="_blank"><strong>vasan.tech</strong></a>
 </p>
+
 
 ---
 
