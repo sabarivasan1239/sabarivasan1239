@@ -1,6 +1,9 @@
-<!-- Name Typing Animation (only once, white, bold) -->
+<!-- Heading Typing Animation (Bold, Centered) -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&size=35&duration=3000&pause=1000&color=0001F7&repeat=false&width=435&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=35&duration=3000&pause=1000&color=0001F7&repeat=false&width=435&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!-- Subtitle Typing Loop -->
 <h2 align="center">
@@ -17,20 +20,23 @@
 - 🔗 Portfolio: [https://portfolio.vasan.tech](https://portfolio.vasan.tech)
 
 ---
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <p align="center">
-  
-<img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
 
-</p>
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
 </div>
 
-###
-
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
 </div>
+
+<!-- Language Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="Top Languages" />
+</div>
+
+---
 
 ### 🔧 Tech Stack
 
@@ -52,4 +58,3 @@
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
