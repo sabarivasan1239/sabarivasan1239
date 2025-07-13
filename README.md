@@ -66,4 +66,4 @@
 
 ---
 
-> ✨ *“Blending creativity with code to build meaningful, user-focused digital experiences.”*
+> ✨ "Fusing creativity with code to deliver beautiful interfaces, seamless user experiences, rapid performance, and captivating digital solutions."
