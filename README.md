@@ -1,7 +1,9 @@
+<!-- Name Typing Animation (only once, white, bold) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&duration=3000&pause=1000&color=7D3C98&center=true&vCenter=true&width=600&lines=Hi+I'm+Sabarivasan+Vasa+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=700&size=30&duration=4000&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sabarivasan+Vasa+👋" alt="Typing SVG" />
 </h1>
 
+<!-- Subtitle Typing Loop -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=24&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=400&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
 </h2>
