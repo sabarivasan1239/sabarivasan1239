@@ -12,12 +12,17 @@
 
 ---
 
-### 💡 About Me
+💡 About Me:
 
-- 🎓 B.Tech IT Student | Mechanical Diploma Holder  
-- ⚙️ Ex-CNC Operator | Merging Engineering & Code  
-- 🌱 Exploring React, Flutter, IoT, AI, Blockchain  
-- 🔗 Portfolio: [https://portfolio.vasan.tech](https://portfolio.vasan.tech)
+🎓 Pursuing B.Tech in Information Technology
+
+🌱 Passionate about combining technology with real-world engineering
+
+🎨 UI/UX Designer focused on clean, modern, and user-centric designs
+
+💬 Ask me about React, Node.js, MongoDB, IoT, and modern UI/UX
+
+🌐 Visit my portfolio: vasan.tech
 
 ---
 
