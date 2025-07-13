@@ -17,6 +17,20 @@
 - 🔗 Portfolio: [https://portfolio.vasan.tech](https://portfolio.vasan.tech)
 
 ---
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p align="center">
+  
+<img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
+
+</p>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ### 🔧 Tech Stack
 
@@ -43,12 +57,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  
-<img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabari-Vasan-SM&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabari-Vasan-SM&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
