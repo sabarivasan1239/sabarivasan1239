@@ -44,6 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  
+<img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" />
   <img src="https://github-readme-stats.vercel.app/api?username=Sabari-Vasan-SM&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabari-Vasan-SM&layout=compact&theme=tokyonight" />
 </p>
