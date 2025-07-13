@@ -53,22 +53,3 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:sabarivasanofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sabarivasan-sm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio.vasan.tech"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-> 🚀 *"Building the future with code, creativity, and curiosity."*
