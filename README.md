@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
 </h2>
 
----
 
 ## 💡 About Me  
 
@@ -26,7 +25,7 @@
   <img src="https://i.pinimg.com/originals/8d/7a/20/8d7a2015ac7b4d6b5b52d1bb5f7c8e0e.gif" alt="Coding GIF" width="300"/>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -49,7 +48,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
----
 
 ## 📊 GitHub Insights  
 
@@ -71,6 +69,6 @@
 
 </div>
 
----
+
 
 <h3 align="center">✨ "Fusing creativity with code to deliver beautiful interfaces, seamless user experiences, rapid performance, and captivating digital solutions." ✨</h3>
