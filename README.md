@@ -13,7 +13,7 @@
 
 ## 💡 About Me  
 
-<p align="center" style="font-size: 18px; font-weight: 600; line-height: 1.8; max-width: 800px;">
+<p align="left" style="font-size: 18px; font-weight: 600; line-height: 1.8; max-width: 800px;">
   🎓 Pursuing a <strong>B.Tech in Information Technology</strong><br>
   🔧 Passionate about blending <strong>technology</strong> with practical engineering solutions<br>
   🖌️ Creative <strong>UI/UX Designer</strong> focusing on clean, modern, and user-first interfaces<br>
