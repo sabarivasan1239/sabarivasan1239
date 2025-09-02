@@ -7,7 +7,7 @@
 
 <!-- Subtitle Typing Animation (Loop) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
 </h2>
 
 ---
@@ -20,6 +20,10 @@
   🖌️ Creative <strong>UI/UX Designer</strong> focusing on clean, modern, and user-first interfaces<br>
   💻 Skilled in <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>IoT</strong>, and intuitive <strong>UI/UX principles</strong><br>
   🌐 Explore my work: <a href="https://portfolio.vasan.tech" target="_blank"><strong>vasan.tech</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8d/7a/20/8d7a2015ac7b4d6b5b52d1bb5f7c8e0e.gif" alt="Coding GIF" width="300"/>
 </p>
 
 ---
