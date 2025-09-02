@@ -1,13 +1,13 @@
 <!-- Heading Typing Animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=35&duration=3000&pause=9999999&color=87CEEB&center=true&vCenter=true&width=600&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=9999999&color=87CEEB&center=true&vCenter=true&width=650&lines=Hey++%F0%9F%91%8B%F0%9F%8F%BB+I'm+Sabarivasan+!" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- Subtitle Typing Animation (Loop) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=24&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Web+Developer;Tech+Enthusiast;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
 </h2>
 
 ---
@@ -54,16 +54,15 @@
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/Sabari-Vasan-SM/Sabari-Vasan-SM/output/snake.svg" alt="Snake animation" width="100%" />
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabari-Vasan-SM&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10" height="150" alt="Top Languages" />
+  <!-- Stats Grid (All in One Row) -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sabari-Vasan-SM&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Sabari-Vasan-SM&theme=dark&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabari-Vasan-SM&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
+  </div>
 
   <!-- Contribution Graph -->
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabari-Vasan-SM&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
